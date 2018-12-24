@@ -1,0 +1,4 @@
+flask
+flask_apscheduler
+flask_script
+gevent
